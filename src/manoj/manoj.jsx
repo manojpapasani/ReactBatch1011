@@ -1,0 +1,1 @@
+export const manoj =() => <h1>manoj component</h1>
